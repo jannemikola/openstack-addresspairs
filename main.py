@@ -4,8 +4,8 @@
 # are just a tenant). This is a script to remedy the situation by utilizing OpenStack's RESTful API, which is the only known 
 # workaround.
 #
-# Tested with HPE CloudSystem 9 OpenStack (Juno), should work with other Juno-based OpenStack variants/distributions as well. Kilo 
-# compatibility unknown, but will verify and make the script adaptive for different versions later.
+# Tested with HPE CloudSystem 9 OpenStack (Juno), should work with other Juno-based OpenStack variants/distributions as well. 
+# Kilo compatibility unknown, but will verify and make the script adaptive for different versions later.
 #
 # The bug is documented in e.g. here: http://lists.openstack.org/pipermail/openstack-dev/2015-September/075636.html and
 # here: https://bugs.launchpad.net/juniperopenstack/+bug/1351979
